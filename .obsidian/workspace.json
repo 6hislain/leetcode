@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "c139e45b93a77fb0",
+    "type": "split",
+    "children": [
+      {
+        "id": "595d42cbd8c0062b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7550320650582097",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "vue-interview-questions.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8f2762991ed59f24",
+    "type": "split",
+    "children": [
+      {
+        "id": "8298bfc5b7fd043f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "22b1c9f56b07bcbd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5617e0e18eca63cd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b601764ee445061b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dbb3c13e47071f00",
+    "type": "split",
+    "children": [
+      {
+        "id": "3758731b6e2b395a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb64539ab216eb4c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "vue-interview-questions.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4460ed18d20272a9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "vue-interview-questions.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3d0a9f02ed72a7ca",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fd3a0a40c1b84d83",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "vue-interview-questions.md"
+              }
+            }
+          },
+          {
+            "id": "5df1d36b1c41b816",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "7550320650582097",
+  "lastOpenFiles": [
+    "react-interview-questions.md",
+    "javascript-interview-questions.md"
+  ]
+}
